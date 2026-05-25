@@ -345,6 +345,12 @@ The [[clipboard-&gt;Clipboard View]] is resting quietly on the desk.
   ]
 ]
 
+---
+* (link: &quot;💾 Save Progress&quot;)[(if: (save-game: &quot;shigou_save&quot;))[(alert: &quot;Progress saved successfully!&quot;)] (else:)[(alert: &quot;Save failed. Check your browser settings.&quot;)]]
+(if: (saved-games:) contains &quot;shigou_save&quot;)[
+* (link: &quot;📂 Load Progress&quot;)[(load-game: &quot;shigou_save&quot;)]]
+---
+
 {
 (set: $hour to 8, $minute to 30, $current_x to 1060, $current_y to 5647)
 }
@@ -383,6 +389,12 @@ You check the [[clipboard-&gt;Clipboard View]] out of habit.
 ]
 
 By the time you are ready to leave, it is 8:30 AM. You must head straight to work. 
+
+---
+* (link: &quot;💾 Save Progress&quot;)[(if: (save-game: &quot;shigou_save&quot;))[(alert: &quot;Progress saved successfully!&quot;)] (else:)[(alert: &quot;Save failed. Check your browser settings.&quot;)]]
+(if: (saved-games:) contains &quot;shigou_save&quot;)[
+* (link: &quot;📂 Load Progress&quot;)[(load-game: &quot;shigou_save&quot;)]]
+---
 
 {
 (set: $hour to 8)
@@ -604,6 +616,12 @@ The rusty desk lamp and your [[clipboard-&gt;Clipboard View]] are resting on the
     &lt;span style=&quot;color: #888;&quot;&gt;[The mysterious figure sits quietly on the desk. It seems tired for today.]&lt;/span&gt;
   ]
 ]
+
+---
+* (link: &quot;💾 Save Progress&quot;)[(if: (save-game: &quot;shigou_save&quot;))[(alert: &quot;Progress saved successfully!&quot;)] (else:)[(alert: &quot;Save failed. Check your browser settings.&quot;)]]
+(if: (saved-games:) contains &quot;shigou_save&quot;)[
+* (link: &quot;📂 Load Progress&quot;)[(load-game: &quot;shigou_save&quot;)]]
+---
 
 (if: $hour &gt;= 20)[
   It is too late to go back outside. You should get some rest.
