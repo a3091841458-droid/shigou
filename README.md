@@ -262,7 +262,7 @@
 
 # 
 
-# Writing, Design, and Programming: \[Your Name/Handle]
+# Writing, Design, and Programming: Alex Zhu
 
 # Ending Theme: "Byakkoya no Musume" (白虎野の娘) by Susumu Hirasawa.
 
