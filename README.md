@@ -30,15 +30,27 @@
 
 # Realistic Movement: Movement speed isn't just a flat number. We introduced a "Non-linear Distance Coefficient." This coefficient is inversely proportional to the travel distance, simulating how fatigue and terrain friction make longer journeys proportionally more difficult, adding a layer of realism to the snowy traversal.
 
+# 
+
+# Anti-Handholding: The game is intentionally designed with minimal explicit guidance. Most locations offer multiple avenues of exploration, encouraging players to get lost in the city and discover its secrets organically.
+
+# 
+
+# The Scrap Economy \& Difficulty: Collecting Scraps is the primary objective, serving as both mechanical buffs and the metric for unlocking the true ending.
+
+# 
+
+# Accessibility vs. Challenge: While there are 30 Scraps in total, 26 are obtainable in a single playthrough. Of those, 22 are simple to acquire without complex prerequisites. Since the ending only requires collecting 50% of the total Scraps (15), the narrative remains highly accessible to players of all levels. However, probability-based and condition-locked Scraps ensure that players who enjoy the thrill of puzzle-solving still have plenty to uncover.
+
+# 
+
+# Buff Balancing \& Reality: The mechanical buffs granted by each Scrap are entirely subjective, scaled according to their acquisition difficulty and my personal valuation of the memory. While the core philosophy aims to depict the harsh reality of a city like Yubari, inevitable inaccuracies and romanticized elements exist to serve these gameplay and narrative constraints.
+
 
 
 # World Building \& Mapping:
 
 # The city map is a reconstruction based on Yubari, Hokkaido. I used Mapbox to capture 21 distinct satellite snapshots, which were then stitched together in Photoshop to create a world map.
-
-# 
-
-# The "Scrap" Collection: 30 unique items serve as narrative anchors. Each provides stat buffs to incentivize players to engage with the city’s history.
 
 # 
 
