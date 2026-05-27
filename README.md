@@ -102,7 +102,7 @@
 
 # 
 
-# 🧩 The Scrap Compendium (Easter Eggs \& Neta)
+# The Scrap Compendium (Easter Eggs \& Neta)
 
 # Almost every Scrap in the game features a specific cultural, historical, or pop-culture reference:
 
@@ -148,7 +148,7 @@
 
 # Music \& Pop-Culture
 
-# To Love's End: Named after the iconic Inuyasha soundtrack piece (Affections Touching Across Time).
+# To Love's End: Named after the iconic Inuyasha soundtrack piece.
 
 # 
 
